@@ -51,7 +51,7 @@ fun BusinessCard() {
         Spacer(modifier = Modifier.height(16.dp))
 
         Text(
-            text = "Jennifer Doe",
+            text = "Bivek Shrestha",
             fontSize = 32.sp,
             fontWeight = FontWeight.Bold
         )
@@ -81,7 +81,7 @@ fun ContactInfo() {
                 tint = Color.Black
             )
             Spacer(modifier = Modifier.width(8.dp))
-            Text(text = "+11 (123) 444 555 666", fontSize = 16.sp)
+            Text(text = "+1 240-853-7812", fontSize = 16.sp)
         }
 
         Spacer(modifier = Modifier.height(16.dp))
@@ -107,7 +107,7 @@ fun ContactInfo() {
                 tint = Color.Black
             )
             Spacer(modifier = Modifier.width(8.dp))
-            Text(text = "jen.doe@android.com", fontSize = 16.sp)
+            Text(text = "bivsth88@gmail.com", fontSize = 16.sp)
         }
     }
 }
